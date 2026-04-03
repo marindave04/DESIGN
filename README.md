@@ -14,3 +14,5 @@ DESIGN/
 │   └── [Future-Problems]/
 ├── .gitignore             # Ignored files (IntelliJ, OS, etc.)
 └── README.md              # Documentation
+
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./LeetCode/155-Min-Stack/MinStack.java) | Medium |
